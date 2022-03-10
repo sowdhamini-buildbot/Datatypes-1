@@ -1,0 +1,1 @@
+// Iterable : Itearble objects are objects that can be iterated over with for..of.
