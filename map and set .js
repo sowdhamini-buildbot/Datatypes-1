@@ -74,7 +74,7 @@ const fruits = new Map([
   document.getElementById("demo").innerHTML = fruits.size;
 
 
-// Set
+// Set : A JavaScript Set is a collection of unique values.Each value can only occur once in a Set.A Set can hold any value of any data type.
 // new Set() - Creates a new Set
 // add()     - Adds a new element to the Set
 // delete()  - Removes an element from a Set
